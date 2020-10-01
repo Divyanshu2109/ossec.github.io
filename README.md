@@ -25,7 +25,7 @@ added.
 8. Push you changes to your fork of ossec-docs.
 9. Create a pull request for your changes.
 
-## Adding a blog entry
+## Adding a blog entry fast
 
 1. Fork the ossec/ossec-docs repo
 2. cd into the ossec-docs directory
@@ -51,4 +51,4 @@ added.
 10. Check to see the test wbesite looks OK.
 11. Repeat steps 7-10 until you have it the way you want.
 12. Push your changes to your fork of ossec-docs.
-13. Create a pull request for your changes.
+13. Create a pull request for your changes improve.
